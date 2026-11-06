@@ -293,3 +293,10 @@ GitHub: https://github.com/Samak1234/SkillTrack
 ## Disclaimer
 
 SkillTrack is currently under development as a student project. Features listed under **Planned Development Tasks** are future goals and are not yet available in the application.
+
+## Screenshots
+
+### FastAPI Swagger Documentation
+Shows the running SkillTrack API and its initial Home endpoint.
+
+![SkillTrack FastAPI Swagger Documentation](screenshots/skilltrack-fastapi-swagger-home-endpoint.png)
