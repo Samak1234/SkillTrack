@@ -160,25 +160,25 @@ The following screenshots document the database setup, table creation, and migra
 
 Shows the SkillTrack PostgreSQL database connection in pgAdmin.
 
-![SkillTrack Database Connection](Docs/screenshots/01_skilltrack_database_connection.png)
+![SkillTrack Database Connection](Backend/Docs/screenshots/01_skilltrack_database_connection.png)
 
 ### 2. Students Table Schema
 
 Shows the structure and columns of the students table in PostgreSQL.
 
-![Students Table Schema](Docs/screenshots/02_students_table_schema.png)
+![Students Table Schema](Backend/Docs/screenshots/02_students_table_schema.png)
 
 ### 3. Alembic Migration Verification
 
 Shows the Alembic migration version after successfully applying the database migration.
 
-![Alembic Migration Verification](Docs/screenshots/03_alembic_migration_verification.png)
+![Alembic Migration Verification](Backend/Docs/screenshots/03_alembic_migration_verification.png)
 
 ### 4. Database Tables Verification
 
 Shows the database tables available in the SkillTrack database, including the students table and Alembic version table.
 
-![Database Tables Verification](Docs/screenshots/04_database_tables_verification.png)
+![Database Tables Verification](Backend/Docs/screenshots/04_database_tables_verification.png)
 
 ## API Documentation
 
@@ -194,6 +194,14 @@ Open the following URLs:
 
 - Swagger UI: http://127.0.0.1:8000/docs
 - ReDoc: http://127.0.0.1:8000/redoc
+
+
+### FastAPI Swagger API Documentation
+
+Displays the interactive Swagger UI for SkillTrack, showcasing the available API endpoints and allowing developers to explore and test API requests directly from the browser.
+
+![FastAPI Swagger](Backend/Docs/screenshots/skilltrack-fastapi-swagger-home-endpoint.png)
+
 
 ## Current Development Progress
 
